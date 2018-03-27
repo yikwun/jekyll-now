@@ -12,11 +12,6 @@ However, I enjoy learning about all the diverse areas of software development su
 
 I have experience creating many different user interfaces for multiple platforms such as desktop, mobile, and web. Please have a look at my Projects page where I go into further detail about some of the projects I have completed!
 
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
 [yikwun.zhang@uwaterloo.ca](mailto:email@domain.com)
