@@ -6,9 +6,19 @@ permalink: /projects/
 
 Work in Progress!
 
-### More Information
+### Project 1
 
-A place to include any other types of information that you'd like to include about yourself.
+Placeholder text
+<https://github.com/yikwun/User-Interfaces>
+
+### Project 2
+
+Placeholder text
+<https://github.com/yikwun/HEALTH-E>
+
+### Project 3
+
+Placeholder text
 
 ### My Repository
 
