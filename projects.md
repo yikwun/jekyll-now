@@ -12,6 +12,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### My Repository
 
-[github.com/yikwun](url)
+[github.com/yikwun]
 
 [yikwun.zhang@uwaterloo.ca](mailto:email@domain.com)
