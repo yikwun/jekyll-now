@@ -10,6 +10,8 @@ Work in Progress!
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### My Repository
 
-[yikwunz@gmail.com](mailto:email@domain.com)
+[github.com/yikwun](url)
+
+[yikwun.zhang@uwaterloo.ca](mailto:email@domain.com)
