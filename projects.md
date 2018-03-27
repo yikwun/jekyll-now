@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Some information about you!
+Work in Progress!
 
 ### More Information
 
