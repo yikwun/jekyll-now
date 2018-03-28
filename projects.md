@@ -9,8 +9,10 @@ Work in Progress!
 ### Project 1
 
 Placeholder text
-![_config.yml]({{ site.baseurl }}/images/snake.png)({{ site.baseurl }}/images/snake.png)
 
+[snake] ({{ site.baseurl }}/images/snake.png)
+[doodle] ({{ site.baseurl }}/images/doodle.gif)
+[paper dolls] ({{ site.baseurl }}/images/paper\ dolls-min.png)
 
 <https://github.com/yikwun/User-Interfaces>
 
