@@ -13,6 +13,9 @@ Placeholder text
 [snake]({{ site.baseurl }}/images/snake.png)
 [doodle]({{ site.baseurl }}/images/doodle.gif)
 [paper dolls]({{ site.baseurl }}/images/paper-dolls.png)
+[youtube 1]({{ site.baseurl }}/images/youtube-1.png)
+[youtube 2]({{ site.baseurl }}/images/youtube-2.png)
+[youtube 3]({{ site.baseurl }}/images/youtube-3.png)
 
 <https://github.com/yikwun/User-Interfaces>
 
