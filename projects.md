@@ -17,12 +17,14 @@ Placeholder text
 [youtube 2]({{ site.baseurl }}/images/youtube-2.png)
 [youtube 3]({{ site.baseurl }}/images/youtube-3.png)
 
-<https://github.com/yikwun/User-Interfaces>
+Visit the repository: <https://github.com/yikwun/User-Interfaces>
 
 ### Project 2
 
 Placeholder text
-<https://github.com/yikwun/HEALTH-E>
+
+
+Visit the repository: <https://github.com/yikwun/HEALTH-E>
 
 ### Project 3
 
