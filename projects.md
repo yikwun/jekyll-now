@@ -11,6 +11,7 @@ An overview of each project that I have completed throughout my education and a 
 ### Games, Drawing, Manipulation, and Media
 
 ## heading 2
+#### heading 4
 Snake - a classic game originating in 1976 from Blockade is re-envisioned on the XWindows System, coded on C++98. 
 
 ![_config.yml]({{ site.baseurl }}/images/snake.png)
