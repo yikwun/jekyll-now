@@ -40,12 +40,12 @@ extra details
 
 general info
 
-![_config.yml]({{ site.baseurl }}/images/paper-dolls.png)
+[youtube 1]({{ site.baseurl }}/images/youtube-1.png)
 
+[youtube 2]({{ site.baseurl }}/images/youtube-2.png)
+[youtube 3]({{ site.baseurl }}/images/youtube-3.png)
 
-extra details
-
-A repository containing all the applications can be found here: 
+A repository containing all the applications listed above can be found here: 
 <https://github.com/yikwun/User-Interfaces>
 
 ### Project 2
