@@ -16,6 +16,18 @@ A classic game originating in 1976 from Blockade is re-envisioned on the XWindow
 ![_config.yml]({{ site.baseurl }}/images/snake.png)
 
 
+some random text here and there LOL!
+
+#### Doodle
+
+Text explaining the general application.
+
+![_config.yml]({{ site.baseurl }}/images/doodle.gif)
+
+
+probably some additional information goes here about the application
+
+
 [doodle]({{ site.baseurl }}/images/doodle.gif)
 [paper dolls]({{ site.baseurl }}/images/paper-dolls.png)
 [youtube 1]({{ site.baseurl }}/images/youtube-1.png)
