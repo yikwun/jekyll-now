@@ -41,7 +41,9 @@ extra details
 general info
 
 ![_config.yml]({{ site.baseurl }}/images/youtube-1.png)
+
 ![_config.yml]({{ site.baseurl }}/images/youtube-2.png)
+
 ![_config.yml]({{ site.baseurl }}/images/youtube-3.png)
 
 
