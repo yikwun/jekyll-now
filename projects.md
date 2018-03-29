@@ -6,18 +6,23 @@ permalink: /projects/
 
 Work in Progress!
 
-### Project 1
+An overview of each project that I have completed throughout my education and a link to the corresponding repository on GitHub. I intend to include some of my side projects that I have been working on once they are complete! Links to my professional work for Shew Properties can be obtained by contacting me directly.
 
-Placeholder text
+### Games, Drawing, Manipulation, and Media
 
-[snake]({{ site.baseurl }}/images/snake.png)
+Snake - a classic game originating in 1976 from Blockade is re-envisioned on the XWindows System, coded on C++98. 
+
+![_config.yml]({{ site.baseurl }}/images/snake.png)
+
+<!-- [snake]({{ site.baseurl }}/images/snake.png) -->
 [doodle]({{ site.baseurl }}/images/doodle.gif)
 [paper dolls]({{ site.baseurl }}/images/paper-dolls.png)
 [youtube 1]({{ site.baseurl }}/images/youtube-1.png)
 [youtube 2]({{ site.baseurl }}/images/youtube-2.png)
 [youtube 3]({{ site.baseurl }}/images/youtube-3.png)
 
-Visit the repository: <https://github.com/yikwun/User-Interfaces>
+A repository containing all the applications can be found here: 
+<https://github.com/yikwun/User-Interfaces>
 
 ### Project 2
 
