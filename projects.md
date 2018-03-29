@@ -40,7 +40,7 @@ extra details
 
 general info
 
-![_config.yml]({{ site.baseurl }}/images/youtube-1.png)
+![_config.yml]({{ site.baseurl }}/images/paper-dolls.png)
 
 
 extra details
