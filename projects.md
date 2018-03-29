@@ -8,11 +8,10 @@ Work in Progress!
 
 An overview of each project that I have completed throughout my education and a link to the corresponding repository on GitHub. I intend to include some of my side projects that I have been working on once they are complete! Links to my professional work for Shew Properties can be obtained by contacting me directly.
 
-### Games, Drawing, Manipulation, and Media
+## Games, Drawing, Manipulation, and Media
+#### Snake
 
-## heading 2
-#### heading 4
-Snake - a classic game originating in 1976 from Blockade is re-envisioned on the XWindows System, coded on C++98. 
+A classic game originating in 1976 from Blockade is re-envisioned on the XWindows System, coded on C++98. 
 
 ![_config.yml]({{ site.baseurl }}/images/snake.png)
 
