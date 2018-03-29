@@ -16,23 +16,36 @@ A classic game originating in 1976 from Blockade is re-envisioned on the XWindow
 ![_config.yml]({{ site.baseurl }}/images/snake.png)
 
 
-some random text here and there LOL!
+When your score reaches 20, a new level begins and the speed at which the snake travels is increased. Can you reach the benchmark of "Level 5"?
 
 #### Doodle
 
-Text explaining the general application.
+Drawing has never been more interactive with the addition of animated undo and redo. Watch your drawing seamlessly undraw itself at the press of a button!
 
 ![_config.yml]({{ site.baseurl }}/images/doodle.gif)
 
 
-probably some additional information goes here about the application
+Java 
+
+#### Paper Dolls
+
+general info
+
+![_config.yml]({{ site.baseurl }}/images/paper-dolls.png)
 
 
-[doodle]({{ site.baseurl }}/images/doodle.gif)
-[paper dolls]({{ site.baseurl }}/images/paper-dolls.png)
-[youtube 1]({{ site.baseurl }}/images/youtube-1.png)
-[youtube 2]({{ site.baseurl }}/images/youtube-2.png)
-[youtube 3]({{ site.baseurl }}/images/youtube-3.png)
+extra details
+
+#### YouTube GUI
+
+general info
+
+![_config.yml]({{ site.baseurl }}/images/youtube-1.png)
+![_config.yml]({{ site.baseurl }}/images/youtube-2.png)
+![_config.yml]({{ site.baseurl }}/images/youtube-3.png)
+
+
+extra details
 
 A repository containing all the applications can be found here: 
 <https://github.com/yikwun/User-Interfaces>
