@@ -13,7 +13,6 @@ An overview of each project that I have completed throughout my education and a 
 
 A classic game originating in 1976 from Blockade is re-envisioned on the XWindows System, coded on C++98. 
 
-{: .center }
 ![_config.yml]({{ site.baseurl }}/images/snake.png){: .center }
 
 
@@ -23,7 +22,6 @@ When your score reaches 20, a new level begins and the speed at which the snake 
 
 Drawing has never been more exquisite until the addition of animated undo and redo. Watch your drawing seamlessly undraw itself at the press of a button!
 
-<!-- {: .center } -->
 ![_config.yml]({{ site.baseurl }}/images/doodle.gif){: .center }
 
 
@@ -33,7 +31,6 @@ Complimented with a customizable colour palette, your ability to create intricat
 
 A humanoid figure is interesting in the ways its body parts can be manipulated. The upper arms (shoulders) can rotate a full 360° while lower arms (elbows) only 135°; why is that?
 
-{: .center }
 ![_config.yml]({{ site.baseurl }}/images/paper-dolls.png){: .center }
 
 
@@ -43,19 +40,16 @@ Explore the limits of what the paper doll can do in this experimental and intera
 
 YouTube is widely known as a leader in the video sharing platform with over five billion videos watched every day! I have created an application that can save your favourite videos from a search on YouTube, while also providing a functionality to rate videos locally and ultimately create a collection of your favourite videos that can be accessed instantly.
 
-{: .center }
 ![_config.yml]({{ site.baseurl }}/images/youtube01.png){: .center }
 
 
 This is an example of the graph view implemented by the application. Resizing will dynamically change the number of videos displayed on each row. Each query is limited to 25 search results.
 
-{: .center }
 ![_config.yml]({{ site.baseurl }}/images/youtube02.png){: .center }
 
 
 An example of the list view implemented by the application. Switching between the two views will not reset any ratings assigned to each video. 
 
-{: .center }
 ![_config.yml]({{ site.baseurl }}/images/youtube03.png){: .center }
 
 
