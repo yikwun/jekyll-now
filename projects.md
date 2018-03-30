@@ -61,7 +61,7 @@ Visit the Repository: <https://github.com/yikwun/User-Interfaces>
 
 As emerging technologies gradually conquer the digital era, the software that powers them become ever more important. A combination of the smartwatch with the smartphone... (not finished!)
 
-![_config.yml]({{ site.baseurl }}/images/healthe.png){: .center }
+![_config.yml]({{ site.baseurl }}/images/health_e.png){: .center }
 
 
 Note: Graph does not contain any data because no smartwatch was connected at the time this image was captured.
