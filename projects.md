@@ -38,7 +38,7 @@ Explore the limits of what the paper doll can do in this experimental and intera
 
 #### YouTube GUI
 
-YouTube is widely known as a leader in the video sharing platform with over five billion videos watched every day. I have created an application that can save your favourite videos from a search on YouTube, while also providing a functionality to rate videos locally. Ultimately, a collection of all your favourite videos are compiled into one place which can be accessed instantly!
+YouTube is widely known as a leader in the video sharing platform with over five billion videos watched every day. I have created an application that can save your favourite videos from a search on YouTube, while also providing a functionality to rate videos locally. Ultimately, a collection of all your favourite videos are compiled into one place which can be accessed instantly! The following images were created using the search query "cat".
 
 ![_config.yml]({{ site.baseurl }}/images/youtube01.png){: .center }
 
