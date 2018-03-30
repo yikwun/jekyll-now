@@ -59,7 +59,7 @@ Visit the Repository: <https://github.com/yikwun/User-Interfaces>
 
 ## Are You Healthy?
 
-As emerging technologies gradually conquer the digital era, the software that powers them become ever more important. A combination of the smartwatch with the smartphone... (not finished!
+As emerging technologies gradually conquer the digital era, the software that powers them become ever more important. A combination of the smartwatch with the smartphone... (not finished)
 
 ![_config.yml]({{ site.baseurl }}/images/healthee.png){: .center }
 
