@@ -14,4 +14,4 @@ Although my focus is software development, my studies have allowed me to pursue 
 
 ### Contact Me
 
-[yikwun.zhang@uwaterloo.ca](mailto:email@domain.com)
+[yikwun.zhang@uwaterloo.ca](mailto:yikwun.zhang@uwaterloo.ca)
