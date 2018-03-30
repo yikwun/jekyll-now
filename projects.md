@@ -55,17 +55,15 @@ An example of the list view implemented by the application. Switching between th
 
 An example of the list view in combination with the filter applied to the search results. In this case, only videos with a rating of two or more stars are displayed.
 
-#### Visit the Repository!
-<https://github.com/yikwun/User-Interfaces>
+#### Visit the Repository: <https://github.com/yikwun/User-Interfaces>
 
-### Project 2
+## Project 2
 
 Placeholder text
 
-
 Visit the repository: <https://github.com/yikwun/HEALTH-E>
 
-### Project 3
+## Project 3
 
 Placeholder text
 
