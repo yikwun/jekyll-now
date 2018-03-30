@@ -23,7 +23,7 @@ When your score reaches 20, a new level begins and the speed at which the snake 
 
 Drawing has never been more exquisite until the addition of animated undo and redo. Watch your drawing seamlessly undraw itself at the press of a button!
 
-{: .center }
+<!-- {: .center } -->
 ![_config.yml]({{ site.baseurl }}/images/doodle.gif){: .center }
 
 
