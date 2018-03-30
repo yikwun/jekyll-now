@@ -57,7 +57,7 @@ An example of the list view in combination with the filter applied to the search
 
 Visit the Repository: <https://github.com/yikwun/User-Interfaces>
 
-## Are You Healthy?
+## Let's Stay Healthy!
 
 As emerging technologies gradually conquer the digital era, the software that powers them become ever more important. A combination of the smartwatch with the smartphone... (not finished!)
 
@@ -66,7 +66,7 @@ As emerging technologies gradually conquer the digital era, the software that po
 
 Note: Graph does not contain any data because no smartwatch was connected at the time this image was captured.
 
-Visit the repository: <https://github.com/yikwun/HEALTH-E>
+Visit the Repository: <https://github.com/yikwun/HEALTH-E>
 
 ## Project 3
 
