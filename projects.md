@@ -38,12 +38,12 @@ Explore the limits of what the paper doll can do in this experimental and intera
 
 #### YouTube GUI
 
-YouTube is widely known as a leader in the video sharing platform with over five billion videos watched every day! This is an application that can save your favourite videos from a search, while also giving the ability to rate them locally and create a collection of your favourite videos.
+YouTube is widely known as a leader in the video sharing platform with over five billion videos watched every day! I have created an application that can save your favourite videos from a search on YouTube, while also providing a functionality to rate videos locally and ultimately create a collection of your favourite videos that can be accessed instantly.
 
 ![_config.yml]({{ site.baseurl }}/images/youtube01.png)
 
 
-This is an example of the graph view implemented by the application. Resizing will dynamically change the number of videos displayed on each row. 
+This is an example of the graph view implemented by the application. Resizing will dynamically change the number of videos displayed on each row. Each query is limited to 25 search results.
 
 ![_config.yml]({{ site.baseurl }}/images/youtube02.png)
 
