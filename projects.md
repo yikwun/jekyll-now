@@ -38,7 +38,7 @@ Explore the limits of what the paper doll can do in this experimental and intera
 
 #### YouTube GUI
 
-YouTube is widely known as a leader in the video sharing platform with over five billion videos watched every day! I have created an application that can save your favourite videos from a search on YouTube, while also providing a functionality to rate videos locally and ultimately create a collection of your favourite videos that can be accessed instantly.
+YouTube is widely known as a leader in the video sharing platform with over five billion videos watched every day. I have created an application that can save your favourite videos from a search on YouTube, while also providing a functionality to rate videos locally. Ultimately, a collection of all your favourite videos are compiled into one place which can be accessed instantly!
 
 ![_config.yml]({{ site.baseurl }}/images/youtube01.png){: .center }
 
@@ -55,7 +55,7 @@ An example of the list view implemented by the application. Switching between th
 
 An example of the list view in combination with the filter applied to the search results. In this case, only videos with a rating of two or more stars are displayed.
 
-#### Visit the Repository: <https://github.com/yikwun/User-Interfaces>
+Visit the Repository: <https://github.com/yikwun/User-Interfaces>
 
 ## Project 2
 
