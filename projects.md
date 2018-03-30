@@ -13,7 +13,7 @@ An overview of each project that I have completed throughout my education and a 
 
 A classic game originating in 1976 from Blockade is re-envisioned on the XWindows System, coded on C++98. 
 
-![_config.yml]({{ site.baseurl }}/images/snake.png){: .center-image}
+![_config.yml]({{ site.baseurl }}/images/snake.png)
 
 
 When your score reaches 20, a new level begins and the speed at which the snake travels is increased. Can you reach a high score of "Level 5"?
@@ -22,7 +22,7 @@ When your score reaches 20, a new level begins and the speed at which the snake 
 
 Drawing has never been more exquisite until the addition of animated undo and redo. Watch your drawing seamlessly undraw itself at the press of a button!
 
-![_config.yml]({{ site.baseurl }}/images/doodle.gif){: .center-image}
+![_config.yml]({{ site.baseurl }}/images/doodle.gif)
 
 
 Complimented with a customizable colour palette, your ability to create intricate and elegant illustrations is only enhanced. What can you make with this new sketcher?
@@ -31,25 +31,31 @@ Complimented with a customizable colour palette, your ability to create intricat
 
 A humanoid figure is interesting in the ways its body parts can be manipulated. The upper arms (shoulders) can rotate a full 360° while lower arms (elbows) only 135°; why is that?
 
-![_config.yml]({{ site.baseurl }}/images/paper-dolls.png){: .center-image}
+![_config.yml]({{ site.baseurl }}/images/paper-dolls.png)
 
 
 Explore the limits of what the paper doll can do in this experimental and interactive application! What is a position the paper doll can be in that you can't?
 
 #### YouTube GUI
 
-YouTube is widely known as a leader in the video sharing platform with over five billion videos watched every day! 
+YouTube is widely known as a leader in the video sharing platform with over five billion videos watched every day! This is an application that can save your favourite videos from a search, while also giving the ability to rate them locally and create a collection of your favourite videos.
 
-![_config.yml]({{ site.baseurl }}/images/youtube01.png){: .center-image}
-
-![_config.yml]({{ site.baseurl }}/images/youtube02.png){: .center-image}
-
-![_config.yml]({{ site.baseurl }}/images/youtube03.png){: .center-image}
+![_config.yml]({{ site.baseurl }}/images/youtube01.png)
 
 
-extra details (test)
+This is an example of the graph view implemented by the application. Resizing will dynamically change the number of videos displayed on each row. 
 
-A repository containing all the applications listed above can be found here: 
+![_config.yml]({{ site.baseurl }}/images/youtube02.png)
+
+
+An example of the list view implemented by the application. Switching between the two views will not reset any ratings assigned to each video. 
+
+![_config.yml]({{ site.baseurl }}/images/youtube03.png)
+
+
+An example of the list view in combination with the filter applied to the search results. In this case, only videos with a rating of two or more stars are displayed.
+
+#### Visit the Repository!
 <https://github.com/yikwun/User-Interfaces>
 
 ### Project 2
