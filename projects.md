@@ -13,7 +13,7 @@ An overview of each project that I have completed throughout my education and a 
 
 A classic game originating in 1976 from Blockade is re-envisioned on the XWindows System, coded on C++98. 
 
-![_config.yml]({{ site.baseurl }}/images/snake.png)
+![_config.yml]({{ site.baseurl }}/images/youtube-1.png)
 
 
 When your score reaches 20, a new level begins and the speed at which the snake travels is increased. Can you reach the benchmark of "Level 5"?
