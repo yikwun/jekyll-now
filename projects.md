@@ -39,7 +39,7 @@ extra details
 #### YouTube GUI
 
 general info
-![_config.yml]({{ site.baseurl }}/images/youtube-1.png)
+![random text]({{ site.baseurl }}/images/youtube-1.png)
 
 
 [youtube 1]({{ site.baseurl }}/images/youtube-1.png)
