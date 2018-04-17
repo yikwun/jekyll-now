@@ -36,7 +36,7 @@ I am also familiar with version control tools such **Git**. Initially using the 
 
 Growing up, I was never exposed to large variety of foods very often and usually ate the same cuisine every meal. As a result, I developed an interest in learning more about different **cooking** styles and began exploring different techniques and ingredients to evolve my own creations when cooking. After countless meals, my skills in the kitchen have evolved significantly and eventually, I found myself cooking nearly every meal whenever I visit home. 
 
-After years of not touching the **piano**, my interest for the instrument recently began resurfacing after being inspired. When I was around 13, I had successfully completed Grade 8 Piano from the Royal Conservatory of Music and the transition back to piano was initially rough, but the techniques I had learnt were gradually coming back to me. Since then, I have learned to play a quite a few songs such as _Canon in D_, _River Flows In You_, and _Wedding Dress_. I am currently in the process of learning a very difficult song known as _Orange_ from an anime called _Your Lie in April_. 
+After years of not touching the **piano**, my interest for the instrument recently began resurfacing after being inspired. When I was around 13, I had successfully completed Grade 8 Piano from the _Royal Conservatory of Music_ and the transition back to piano was initially rough, but the techniques I had learnt were gradually coming back to me. Since then, I have learned to play a quite a few songs such as _Canon in D_, _River Flows In You_, and _Wedding Dress_. I am currently in the process of learning a very difficult song known as _Orange_ from an anime called _Your Lie in April_. 
 
 ### Contact Me
 
