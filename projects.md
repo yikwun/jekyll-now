@@ -66,15 +66,17 @@ Note: Graph does not contain any data because no smartwatch was connected at the
 
 The goal of the application is to replace the unreliable and costly health monitoring systems currently being deployed with technologies more readliy available to the consumer. HEALTH-E stores crucial information about the user including emergency contact, location, time, and recent history in order to reliably notify emergency personnel in the case of an emergency. When the continuously tracked heart rate experiences a significant discrepancy (80 bpm decreases to 20 bpm), the application will automatically contact the emergency contact after a few seconds, allowing time for the user to dismiss any false positives. 
 
-This project was completed in collaboration with Ali N. and Vincent Z. over the course of four months. The entire process included a pitch to clients (instructors and classmates), prototype, oral defence of technologies being used, and ultimately the final product.
+This project was completed in collaboration with Ali N. and Vincent Z. over the course of four months. The entire process included a pitch to clients (instructors and classmates), prototype, oral defence of technologies and design patterns being used, and ultimately delivery of the final product.
 
 Visit the Repository: <https://github.com/yikwun/HEALTH-E>
 
 ## Battle Simulator
 
-A simple application created in high school using C#.
+A simple game created in high school using C# and the Windows Form application.
 
 ![battlesimulator]({{ site.baseurl }}/images/battle.png){: .center }
+
+The goal of the game is to successfully reduce the enemy's health to zero while having positive HP yourself using a combination of the four options available to the user: attack, special attack, heal, and run. 
 
 ### My Repository
 
