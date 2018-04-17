@@ -14,14 +14,14 @@ Although my focus is software development, my studies have allowed me to pursue 
 
 ## Software and Technologies
 
-#### C#
+#### C\#
 My passion for computer science stemmed from my enjoyment for the field in high school. As the course curriculum focused around creating games using **C#**, I was introduced to the computer science fundamentals such as data types, functions, object oriented programming, code execution flow, and general problem solving over the final **two years** of high school.
 
 #### C & C++
 The University of Waterloo has significantly enhanced my knowledge of computers. Software abstraction & modularization, data structures, computer architecture, and operating systems were topics I studied for **more than one year**, supplmented with implementation in **C**. I have also learned more about object-oriented development, compilers, and algorithms, making use of concepts regarding memory management as well as _STL_ in **C++** for **over one year**. Furthermore, I was exposed to the **UNIX System**, using **BASH**, around this time and have been using it ever since to write simple _shell scripts_ and access the file system through the command line. 
 
 #### Java
-User-focused design followed subsequently and this allowed me to learn a new language. **Java** came naturally as the syntax mirrored the C language, and garbage collection meant less worries about memory leaks. With projects utilizing _Swing_ and _AWT_, I was able to learn how to correctly use widgets to create interaction between humans and computers. Furthermore, I worked with **Android Studio** to create an Android application that uses two devices - a smartphone and a smartwatch. Recently, I have also completed a project focused on applied cryptography involving the _libsodium_ library. Cumulatively, I have worked with Java for **over one year**, but would consider this to be my strongest language. 
+User-focused design followed subsequently and this allowed me to learn a new language. **Java** came naturally as the syntax mirrored the C language, and garbage collection meant less worries about memory leaks. With projects utilizing _Swing_ and _AWT_, I was able to learn how to correctly use widgets to create interaction between humans and computers. Furthermore, I worked with **Android Studio** to create an Android application that uses two devices - a smartphone and a smartwatch. Recently, I have completed a project focused on applied cryptography involving the _libsodium_ library. Cumulatively, I have worked with Java for **over one year**, but would consider this to be my strongest language. 
 
 #### SQL
 I have also been exposed to databases, learning how to write **SQL Queries** and accessing IBM's **DB2** database provided through the command line. I would consider my knowledge in databases to be extremely limited, as I only have roughly **four months** of experience working with databases. I have also been exposed to some _Big Data_ tools such as **Hadoop**, but there is still a lot I have to learn about the _Data Science_ field.
