@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-Work in Progress!
-
 An overview of each project that I have completed throughout my education and a link to the corresponding repository on GitHub. I intend to include some of my side projects that I have been working on once they are complete! Links to my professional work for Shew Properties can be obtained by contacting me directly.
 
 ## Games, Drawing, Manipulation, and Media
@@ -59,16 +57,20 @@ Visit the Repository: <https://github.com/yikwun/User-Interfaces>
 
 ## Let's Stay Healthy!
 
-As emerging technologies gradually conquer the digital era, the software that powers them become ever more important. A combination of the smartwatch with the smartphone... (not finished!)
+As emerging technologies gradually conquer the digital era, the software that powers them become ever more important. HEALTH-E is an application that seamlessly pairs a user's smartphone with their smartwatch, making use of its sensors, to achieve consistent health monitoring.
 
 ![_config.yml]({{ site.baseurl }}/images/health_e.png){: .center }
 
 
 Note: Graph does not contain any data because no smartwatch was connected at the time this image was captured.
 
+The goal of the application is to replace the unreliable and costly health monitoring systems currently being deployed with technologies more readliy available to the consumer. HEALTH-E stores crucial information about the user including emergency contact, location, time, and recent history in order to reliably notify emergency personnel in the case of an emergency. When the continuously tracked heart rate experiences a significant discrepancy (80 bpm decreases to 20 bpm), the application will automatically contact the emergency contact after a few seconds, allowing time for the user to dismiss any false positives. 
+
+This project was completed in collaboration with Ali N. and Vincent Z. over the course of four months. The entire process included a pitch to clients (instructors and classmates), prototype, oral defence of technologies being used, and ultimately the final product.
+
 Visit the Repository: <https://github.com/yikwun/HEALTH-E>
 
-## Project 3
+## Battle Simulator
 
 Placeholder text
 
