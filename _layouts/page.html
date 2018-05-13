@@ -1,13 +1,55 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+  <link rel="shortcut icon" type="image/png" href="{{ site.avatar }}"/>
 
-<article class="page">
+  {% include meta.html %}
 
-  <h1>{{ page.title }}</h1>
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
 
-  <div class="entry">
-    {{ content }}
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+
+</head>
+
+<body>
+  <div class="wrapper-masthead">
+    <div class="container">
+      <header class="masthead clearfix backhome">
+        <a href="{{ site.baseurl }}/">Back Home</a>
+
+        <!-- <h1 class="site-name">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          <a href="{{ site.baseurl }}/">{{ site.name }}</a>
+        </h1> -->
+      </header>
+    </div>
   </div>
-  
-</article>
+
+  <div id="main" role="main" class="container">
+
+
+  <article class="page">
+
+    <h1>{{ page.title }}</h1>
+
+    <div class="entry">
+      {{ content }}
+    </div>
+
+  </article>
+</div>
+
+  <!-- <div class="wrapper-footer">
+  <div class="container">
+  <footer class="footer">
+  {% include svg-icons.html %}
+</footer>
+</div>
+</div> -->
+
+<!-- {% include analytics.html %} -->
+</body>
+</html>
