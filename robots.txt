@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /images/
-Disallow: /docs/
+Disallow: 
 
 Sitemap: http://yikwun.com/sitemap.xml
