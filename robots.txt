@@ -1,4 +1,4 @@
-Site-agent: *
+User-agent: *
 Disallow: /images/
 Disallow: /docs/
 
