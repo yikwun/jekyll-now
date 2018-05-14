@@ -2,4 +2,4 @@ Site-agent: *
 Disallow: /images/
 Disallow: /docs/
 
-Sitemap: http:yikwun.com/sitemap.xml
+Sitemap: http://yikwun.com/sitemap.xml
