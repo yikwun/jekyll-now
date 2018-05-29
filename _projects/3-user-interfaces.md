@@ -18,7 +18,7 @@ An introductory course for user interfaces, CS 349 provided many opportunities t
 
 A classic game originating in 1976 from Blockade is re-envisioned on the XWindows System, written in C++.
 
-![snake]({{ site.baseurl }}/images/projects/snake.png){: .center .width-75}
+![snake]({{ site.baseurl }}/images/projects/snake.png){: .center .width-75 }
 <div class="caption"> Snake looking for food, running on XQuartz - an X11 system for MacOS. </div>
 
 When your score reaches 20, a new level begins and the speed at which the snake travels is increased. Can you reach a high score of "Level 5"?
